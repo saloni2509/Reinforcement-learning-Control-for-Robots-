@@ -4,3 +4,4 @@ Using Linear Inverted Pendulum Model to derive Model Predictive Control law for 
 
 [REPORT.pdf](https://github.com/saloni2509/Reinforcement-learning-Control-for-Robots-/files/6988914/REPORT.pdf)
 
+This report tells us about the OpenAI Gym, and how to generate the code and justify it. 
